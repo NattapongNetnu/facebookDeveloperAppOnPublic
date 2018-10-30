@@ -6,3 +6,4 @@
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.51.29.png)
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.52.18.png)
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.53.20.png)
+![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.53.35.png)
