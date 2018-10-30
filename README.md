@@ -6,10 +6,15 @@
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.52.18.png)
 ภาพด้านล่างเป็นวิธีการเข้าไปตั้งค่า URL ของแอพ โดยเลือกจากแถบด้านข้างตรงคำว่า "สินค้า"
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.53.20.png)
+
 เมื่อตั้งค่า URL ให้ตรงกันทั้งใน "URL นโยบายความเป็นส่วนตัว" และ "URL ของการเข้าสู่ระบบ facebook" เรียบร้อยแล้ว ให้เลือกเปิดเป็น public จาก switch ด้านบนเว็บ
 
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.50.50.png)
+
 แล้ว facebook จะให้เลือกหมวดหมู่ ในที่นี้เลือกเป็น "การรับส่งข้อความ"
+
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.54.36.png)
+
 เมื่อกดยืน สถานะของแอพจะเปลี่ยนเป็นเผยแพร่ดังภาพ
+
 ![alt text](https://github.com/NattapongNetnu/facebookDeveloperAppOnPublic/blob/master/img/Screen%20Shot%202561-10-30%20at%2011.54.55.png)
